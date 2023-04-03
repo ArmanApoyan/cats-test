@@ -1,0 +1,15 @@
+.sidebar_icon_container {
+    padding: 25px;
+    
+}
+.sidebar_icon {
+    transform: scale(2.2);
+    transition: 0.3s;
+    background-color: rgba(189, 189, 189, 0.671);
+}
+.sidebar_icon:hover {
+    cursor: pointer;
+    transform: scale(2.5);
+    position: absolute;
+    z-index: 10;
+}

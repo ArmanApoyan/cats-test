@@ -1,0 +1,41 @@
+.sidebar {
+    padding: 10px;
+}
+.sidebar > h2 {
+    margin-bottom: 15px;
+    font-size: 29px;
+}
+.list {
+    padding-left: 15px;
+    list-style-type: none;
+}
+.category {
+    margin: 10px;
+    font-size: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color: green;
+    transition: 0.3s;
+}
+.category:hover {
+    color: rgb(125, 180, 23);
+    cursor: pointer;
+    text-decoration: underline;
+}
+.selectedCategory {
+    color: rgb(9, 21, 77);
+    text-decoration: underline;
+}
+.selectedCategory:hover {
+    color: rgb(35, 71, 228);
+}
+
+@media (max-width:768px) {
+    .sidebar {
+        background-color: rgba(221, 219, 219, 0.836);
+    }
+    .category {
+        margin: 30px;
+        font-size: 25px;
+        color: green;
+    }
+}

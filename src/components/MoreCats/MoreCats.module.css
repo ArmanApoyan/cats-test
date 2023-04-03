@@ -1,0 +1,19 @@
+.more_cats_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+.more_cats_container > p {
+  font-family: "Font1";
+  font-size: 35px;
+  transition: 0.3s;
+  background-color: #b9b8b8;
+  padding: 5px;
+  border-radius: 10px;
+}
+.more_cats_container > p:hover {
+  font-size: 45px;
+  cursor: pointer;
+  color: rgb(96, 151, 23);
+}

@@ -1,0 +1,11 @@
+.home_header {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Font1';
+}
+h1 {
+    background-color: #b9b8b8;
+}
