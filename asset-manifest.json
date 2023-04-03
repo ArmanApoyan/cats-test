@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cats-test/static/css/main.a0a70abf.css",
-    "main.js": "/cats-test/static/js/main.55b39852.js",
+    "main.js": "/cats-test/static/js/main.a9945d4b.js",
     "static/media/NerkoOne.ttf": "/cats-test/static/media/NerkoOne.2e8be1a15ff9c6ac9177.ttf",
     "index.html": "/cats-test/index.html",
     "main.a0a70abf.css.map": "/cats-test/static/css/main.a0a70abf.css.map",
-    "main.55b39852.js.map": "/cats-test/static/js/main.55b39852.js.map"
+    "main.a9945d4b.js.map": "/cats-test/static/js/main.a9945d4b.js.map"
   },
   "entrypoints": [
     "static/css/main.a0a70abf.css",
-    "static/js/main.55b39852.js"
+    "static/js/main.a9945d4b.js"
   ]
 }
